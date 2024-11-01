@@ -1,0 +1,3 @@
+tmp.txt
+# Ignore virtual environment
+venv/
